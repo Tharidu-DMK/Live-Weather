@@ -1,9 +1,5 @@
 # Live-Weather
-simple telegram weather bot 
-
-# Telegram Weather Bot
-
-A lightweight Telegram bot that shows current weather and a 36-hour forecast by city name or your shared location.
+simple telegram weather bot that shows current weather and a 36-hour forecast by city name or your shared location.
 
 ## Features
 - `/weather <city>` for city-based weather
